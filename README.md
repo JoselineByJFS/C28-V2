@@ -1,2 +1,2 @@
-# C28-V2
-CLASE 28 V2
+# Invasion-Pirata-etapa5
+se agregó la animación del sprite
